@@ -4,6 +4,8 @@
 
 **Author**: Sajeeb The Analyst
 
+[**✨ View Live Demo ✨**](https://littlesuprises.netlify.app/)
+
 ## Project Overview
 
 This is an interactive romantic surprise website that transforms a simple question into a playful and emotional digital experience. The journey flows beautifully from a warm welcome to a playful interaction, leading up to a celebration of love, personalized memories, and a touching final surprise.
@@ -109,33 +111,14 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-You can easily deploy this website to Vercel (or Netlify).
+You can easily deploy this website to Netlify (or Vercel).
 
-### Deploying to Vercel:
-1. Create a free account on [Vercel](https://vercel.com).
+### Deploying to Netlify:
+1. Create a free account on [Netlify](https://www.netlify.com/).
 2. Connect your GitHub account and import this repository.
-3. Vercel will automatically detect the Vite framework.
-4. Leave the default build settings (`npm run build` and `dist` folder) and click **Deploy**.
+3. Netlify will automatically detect the Vite framework and setup the build command.
+4. Leave the default build settings (Build command: `npm run build` and Publish directory: `dist`) and click **Deploy Site**.
 5. Once deployed, share the link with your special someone!
-
-## Screenshots / Demo
-
-[Live Demo](https://littlesuprises.netlify.app/)
-
-*Welcome Screen*  
-![Welcome Screen](assets/screenshots/welcome.png)
-
-*Interactive Question*  
-![Interactive Question](assets/screenshots/question.png)
-
-*Celebration Screen*  
-![Celebration Screen](assets/screenshots/celebration.png)
-
-*Memories Section*  
-![Memories Section](assets/screenshots/memories.png)
-
-*Final Surprise*  
-![Final Surprise](assets/screenshots/final.png)
 
 ## Design Philosophy
 
