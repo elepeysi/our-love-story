@@ -32,17 +32,17 @@ I will always choose you. ❤️`,
     {
       title: "Our First Conversation",
       caption: "Where everything started. ❤️",
-      image: "https://i.ibb.co/jP2Y8nQB/Whats-App-Image-2026-07-29-at-10-51-27-PM.jpg", // Replace with your photo URL
+      image: "https://i.ibb.co/bMPm7GDb/Chat-GPT-Image-Aug-2-2026-10-34-35-PM.png", // Real couple holding hands
     },
     {
       title: "That Special Day",
       caption: "A memory I will always keep close to my heart.",
-      image: "https://i.ibb.co/XfwYqHjb/Whats-App-Image-2026-07-29-at-10-51-28-PM.jpg", // Replace with your photo URL
+      image: "https://i.ibb.co/wFcXDQrc/Chat-GPT-Image-Aug-2-2026-10-35-39-PM.png", // Real romantic couple
     },
     {
       title: "Us",
       caption: "Just two people, one beautiful story.",
-      image: "https://i.ibb.co/Kpjfch0M/Whats-App-Image-2026-07-29-at-10-51-28-PM-1.jpg", // Replace with your photo URL
+      image: "https://i.ibb.co/xKZkzxB6/Chat-GPT-Image-Aug-2-2026-10-37-14-PM.png", // Aesthetic romantic couple
     }
   ],
 
