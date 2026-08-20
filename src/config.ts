@@ -1,6 +1,6 @@
 export const config = {
-  girlfriendName: "Sanzida", // Sanzida
-  myName: "Sajeeb", // Sajeeb
+  girlfriendName: "Anjanette", // Sanzida
+  myName: "Loreine", // Sajeeb
   
   // The main question
   questionText: "Hi. Happy 2nd month. Do you love me? 🥺❤️",
