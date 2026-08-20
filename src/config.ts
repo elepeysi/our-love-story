@@ -3,7 +3,7 @@ export const config = {
   myName: "Sajeeb", // Sajeeb
   
   // The main question
-  questionText: "Do you love me? 🥺❤️",
+  questionText: "Hi. Happy Monthsary. Do you love me? 🥺❤️",
   
   // The different texts for the NO button
   noButtonTexts: [
