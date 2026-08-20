@@ -21,11 +21,7 @@ export const config = {
   celebrationMessage: "I love you more than words can explain. ❤️",
 
   // Typewriter message
-  loveMessage: `Two months may not seem like a long time, but somehow, you’ve already become such a beautiful part of my life.
-Every call, every message, every little “I miss you” makes the distance feel a little smaller.
-I’ll keep choosing you, loving you, and looking forward to the moments we’ll finally share together...
-
-Two months down, and so many more to go. 🥺❤️,
+  loveMessage: `,
 
   // Memories section
   memories: [
