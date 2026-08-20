@@ -3,7 +3,7 @@ export const config = {
   myName: "Sajeeb", // Sajeeb
   
   // The main question
-  questionText: "Hi. Happy Monthsary. Do you love me? 🥺❤️",
+  questionText: "Hi. Happy 2nd month. Do you love me? 🥺❤️",
   
   // The different texts for the NO button
   noButtonTexts: [
@@ -21,11 +21,11 @@ export const config = {
   celebrationMessage: "I love you more than words can explain. ❤️",
 
   // Typewriter message
-  loveMessage: `Every moment with you is special.
-Every conversation with you makes my day better.
-And no matter how many times I ask...
+  loveMessage: `Two months may not seem like a long time, but somehow, you’ve already become such a beautiful part of my life.
+Every call, every message, every little “I miss you” makes the distance feel a little smaller.
+I’ll keep choosing you, loving you, and looking forward to the moments we’ll finally share together...
 
-I will always choose you. ❤️`,
+Two months down, and so many more to go. 🥺❤️,
 
   // Memories section
   memories: [
